@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter otus,$(TARGET_DEVICE)),)
+ifneq ($(filter chakra,$(TARGET_DEVICE)),)
 
 endif
